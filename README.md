@@ -1,11 +1,5 @@
-### Hi there 👋
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+# Hi there 👋
+
 
 <!--
 **Gabriel-Uraza611/Gabriel-Uraza611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
