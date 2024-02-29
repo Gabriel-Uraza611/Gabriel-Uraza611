@@ -1,6 +1,11 @@
 ### Hi there 👋
-Hola como estas :)
-me gusta tocar el piano 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 
 <!--
 **Gabriel-Uraza611/Gabriel-Uraza611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
