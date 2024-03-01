@@ -1,17 +1,10 @@
-# Hi there 👋
+# ¡Hi there! 👋, I'm Gabriel Uraza
 
-
-<!--
-**Gabriel-Uraza611/Gabriel-Uraza611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studing in Universidad del Valle (Colombia), I'm in third semester.
+- 🌱 I’m currently learning laguages like Java, Python and C++
+- 😄 I'm excited to learn more about software development
+- 📫 How to reach me: gabriel.uraza@correounivalle.edu.co
+- ⚡ About me:
+- --> 🔥 I'm Christian, I love God above all things
+- --> 😎 I like to work and I always want to give my best
+- --> 🎹🎸 Music is my passion and Worship God is my life
