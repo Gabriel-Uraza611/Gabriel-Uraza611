@@ -1,7 +1,5 @@
 # GABRIEL URAZA GARCIA
-### Aspiring Backend Developer
-### 🎓 Software Engineering Student | Universidad del Valle
-
+### 🎓 Software Engineering Student at Universidad del Valle — Backend Developer
 
 ---
 
