@@ -55,12 +55,9 @@
 - Deepen my AWS knowledge beyond the Cloud Practitioner level, focusing on compute and deployment services such as EC2, S3, and RDS.
 
 ---
-
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-uraza-garcía-328b282b4)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.uraza@correounivalle.edu.co)
-
----
+- 📧 Email: gurazaga.611@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/gabriel-uraza-garcía-328b282b4
 
 
 
