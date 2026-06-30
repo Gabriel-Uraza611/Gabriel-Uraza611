@@ -1,27 +1,17 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
-
+# GABRIEL URAZA GARCIA
 ### 🎓 Estudiante de Ingeniería de Sistemas | Universidad del Valle
 
-[![GitHub followers](https://img.shields.io/github/followers/tuusuario?style=social)](https://github.com/tuusuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tuperfil)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tu.email@universidad.edu.co)
+---
+
+## 🎯 About Me
+
+> Estudiante de Ingeniería de Sistemas en la Universidad del Valle, cursando octavo semestre, enfocado en desarrollo backend con Java y Spring Boot. Con experiencia construyendo APIs REST y CRUDs aplicando arquitectura por capas, inyección de dependencias y buenas prácticas de diseño orientado a objetos. Conocimientos complementarios en Python, bases de datos relacionales.
+> 
+> Interesado en aprender mas de arquitecturas de sofware, buenas practicas de desarrollo y cloud computing.
 
 ---
 
-## 🚀 Sobre mí
-
-Estudiante de octavo semestre de **Ingeniería de Sistemas** en la **Universidad del Valle**, apasionado por el desarrollo backend y las arquitecturas de software. Mi enfoque principal es **Java con Spring Boot**, aunque también manejo Python para proyectos específicos.
-
-Actualmente estoy profundizando en:
-- 🏗️ **Arquitectura de software** (Hexagonal, Clean Architecture, Microservicios)
-- ☁️ **Cloud Computing** (AWS) y **DevOps**
-- 🐳 **Docker** y contenedores
-
-> *"No me considero fullstack, y no aspiro a serlo. Soy desarrollador backend, y orgulloso de ello."*
-
----
-
-## 🛠️ Tech Stack:
+## 💻 Tech Stack:
 
 ---
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,41 +27,22 @@ Actualmente estoy profundizando en:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
-
-## 🎯 Objetivos Actuales
-
-### **Corto Plazo**
-- 📚 **Masterizar** Spring Boot
-- 🏗️ Profundizar en **arquitectura de microservicios**
-- 🧪 Aprender **Hexagonal Architecture** y **Clean Architecture**
-
-### **Mediano Plazo**
-- ☁️ Profundizar en **AWS** y servicios cloud
-- 🐳 Mejorar habilidades en **Docker**
-- 📋 Aprender metodologías ágiles (Scrum, Kanban)
-- 🔄 Fortalecer conocimientos en **DevOps**
-
-### **Largo Plazo**
-- 💼 Convertirme en un desarrollador backend sólido
-- 🏛️ Diseñar arquitecturas de software robustas
-- 🧠 Contribuir a proyectos open source
-
----
 
 ## 📊 Estadísticas de GitHub
 
-![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Uraza611&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Uraza611&layout=compact&theme=radical)
+
 
 ---
 
-## 📫 ¿Cómo contactarme?
-
-- 💼 **LinkedIn:** [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
-- 📧 **Email:** tu.email@universidad.edu.co
-- 🐙 **GitHub:** [github.com/tuusuario](https://github.com/tuusuario)
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.uraza@correounivalle.edu.co)
 
 ---
 
